@@ -6,7 +6,7 @@ Individual work by Junjie Cai<br>
 
 ## Assignment 2: Model: building VS energy consumption
 Individual work by Junjie Cai<br>
-Directed by Tiancheng Yin
+With the help of Tiancheng Yin
 
 1. data munging
 
