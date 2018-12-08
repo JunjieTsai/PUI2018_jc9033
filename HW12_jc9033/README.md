@@ -1,20 +1,15 @@
 
 # Homework 11
-Individual work by Junjie Cai<br>
+Group work with Tiancheng Yin(TY1045)<br>
 
-## Assignment 1 time series analysis with MTA subway dataset
+## Assignment 1 Find periodicity with Fourier Transforms in the time series from HW11
 
-1. Event detection: Identify the most prominent event. Identify it and figure out what it is due to.
+## Assignment 2 Cluster zipcodes based on the economic development
 
-2. Some of the time series are stationary, some have a complex structure, some show a downward trend: Identify the ridership types that have steadily increased in popularity, and that have steadily decreased. 
+Cluster zipcodes based on the economic development (business counts) in time for 1993-2006 Clustering often takes time, particularly hierarchical clustering. 
 
-3. Build a classifier that assigns a card type to a time series based on time series features
+Comment on patterns: 
 
-## Assignment 2 Improve the plot from HW8 
+which zipcodes have similar time evolution in the number of businesses? 
 
-based on the feedback from classmates
-
- ![image](FDNY_Response_revised.png)
- 
-### Figure 1: FDNY (The New York City Fire Department) Avarage Response Time against the Monthly Number of Incidents in the last 8 years, with the regression line fitted by the linear regression model.
-### This plot shows an obvious correlation between the avarage response time and the monthly number of incidents. Overall, the more incidents happened in a month, the more time FDNY take to response.
+what are peculiar the characteristics in the economic evolution of each cluster ? upward trends, downward trends, inflection points, discontinuities?
